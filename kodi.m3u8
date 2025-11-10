@@ -1,206 +1,90 @@
 #EXTM3U
-#EXTINF:-1 ,cctv1 
+#EXTINF:-1 ,cctv1（1080） 
 http://sh.lnott.top:880/dx01.m3u8
-#EXTINF:-1 ,cctv1 
-https://iptv.catvod.com/live.php?id=cctv1%E7%BB%BC%E5%90%88
-#EXTINF:-1 ,cctv1 
-https://migu.188766.xyz/?migutoken=bfe524375d68a0f4b8e6e8dc71925498&id=cctv1&type=yy
-#EXTINF:-1 ,cctv1 
-https://iptv.catvod.com/live.php?id=cctv-1%20%E7%BB%BC%E5%90%88
-#EXTINF:-1 ,cctv1 
+#EXTINF:-1 ,cctv1（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv1 
+#EXTINF:-1 ,cctv1（1080）
 https://shyd.695847.xyz/cms001/ch00000090990000001022/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv1 
+#EXTINF:-1 ,cctv1（1080）
 https://shyd.695847.xyz/cms001/ch00000090990000001388/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv2 
-https://iptv.catvod.com/live.php?id=cctv2%E8%B4%A2%E7%BB%8F
-#EXTINF:-1 ,cctv2 
-https://migu.188766.xyz/?migutoken=4b0907d6007b08acdf5d5f882c46d22e&id=cctv2&type=yy
-#EXTINF:-1 ,cctv2 
-https://migu.188766.xyz/?migutoken=294e2f33287e4a0bcf7d0822e13ce410&id=cctv2&type=yy
-#EXTINF:-1 ,cctv2 
-https://iptv.catvod.com/live.php?id=cctv-2%20%E8%B4%A2%E7%BB%8F
-#EXTINF:-1 ,cctv2 
+#EXTINF:-1 ,cctv2（1080）
 https://shyd.695847.xyz/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 ,cctv2 
 http://61.156.228.12:8154/tsfile/live/0002_1.m3u8
-#EXTINF:-1 ,cctv3 
+#EXTINF:-1 ,cctv3（720）
 http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv3 
-https://iptv.catvod.com/live.php?id=cctv3%E7%BB%BC%E8%89%BA
-#EXTINF:-1 ,cctv3 
-https://migu.188766.xyz/?migutoken=da083286299f5dbb4245ac3fc367d368&id=cctv3&type=yy
-#EXTINF:-1 ,cctv3 
-https://migu.188766.xyz/?migutoken=c6a4c3a2294ebd363df823301b14c967&id=cctv3&type=yy
-#EXTINF:-1 ,cctv3 
-https://iptv.catvod.com/live.php?id=cctv-3%20%E7%BB%BC%E8%89%BA
-#EXTINF:-1 ,cctv3 
+#EXTINF:-1 ,cctv3（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv4 
-https://iptv.catvod.com/live.php?id=cctv4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
-#EXTINF:-1 ,cctv4 
-https://iptv.catvod.com/live.php?id=cctv4%E7%BE%8E%E6%B4%B2
-#EXTINF:-1 ,cctv4 
-https://migu.188766.xyz/?migutoken=a3ac62beb3942f0984ec29b50652b1a0&id=cctv4%E7%BE%8E%E6%B4%B2&type=yy
-#EXTINF:-1 ,cctv4 
-https://migu.188766.xyz/?migutoken=d0f10d74f4c1c87a4509ae0787ae884e&id=cctv4%E6%AC%A7%E6%B4%B2&type=yy
-#EXTINF:-1 ,cctv4 
-https://iptv.catvod.com/live.php?id=cctv-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
-#EXTINF:-1 ,cctv4 
-https://iptv.catvod.com/live.php?id=cctv-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
-#EXTINF:-1 ,cctv4 
-https://migu.188766.xyz/?migutoken=05b27f16bcbe30bf74d28d91caf890fa&id=cctv4%E6%AC%A7%E6%B4%B2&type=yy
 #EXTINF:-1 ,cctv4 
 http://61.156.228.12:8154/tsfile/live/0004_1.m3u8
 #EXTINF:-1 ,cctv4 
 https://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv5 
-https://migu.188766.xyz/?migutoken=58cb375aab34c77d3161b869c3943c66&id=cctv5&type=yy
-#EXTINF:-1 ,cctv5 
-https://iptv.catvod.com/live.php?id=cctv5%E4%BD%93%E8%82%B2
-#EXTINF:-1 ,cctv5 
-https://migu.188766.xyz/?migutoken=8060920463ae994c084bf61a16d08acd&id=cctv5&type=yy
-#EXTINF:-1 ,cctv5 
-https://migu.188766.xyz/?migutoken=e868a25e611557464d5c0178eac739f6&id=cctv5&type=yy
-#EXTINF:-1 ,cctv5 
-https://iptv.catvod.com/live.php?id=cctv-5%20%E4%BD%93%E8%82%B2
-#EXTINF:-1 ,cctv5 
+#EXTINF:-1 ,cctv5（720） 
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,cctv5 
 https://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv6 
+#EXTINF:-1 ,cctv6（720） 
 http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv6 
+#EXTINF:-1 ,cctv6（1080） 
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
-#EXTINF:-1 ,cctv6 
-https://iptv.catvod.com/live.php?id=cctv6%E7%94%B5%E5%BD%B1
-#EXTINF:-1 ,cctv6 
-https://migu.188766.xyz/?migutoken=8d5592cd678c96a3cb447e539615b4b7&id=cctv6&type=yy
-#EXTINF:-1 ,cctv6 
+#EXTINF:-1 ,cctv6（720） 
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,cctv6 
+#EXTINF:-1 ,cctv6（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv7 
+#EXTINF:-1 ,cctv7（720） 
 http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv7 
-https://iptv.catvod.com/live.php?id=cctv7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
-#EXTINF:-1 ,cctv7 
-https://migu.188766.xyz/?migutoken=2f2df60f8ca9f791f6a40bc600bc6b8e&id=cctv7&type=yy
-#EXTINF:-1 ,cctv7 
+#EXTINF:-1 ,cctv7（1080） 
 http://sh.lnott.top:880/dx07.m3u8
-#EXTINF:-1 ,cctv7 
-https://iptv.catvod.com/live.php?id=cctv-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
-#EXTINF:-1 ,cctv7 
+#EXTINF:-1 ,cctv7（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv8 
+#EXTINF:-1 ,cctv8（720p） 
 http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv8 
+#EXTINF:-1 ,cctv8（720） 
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,cctv8 
-https://migu.188766.xyz/?migutoken=2d72812d415f098b5c5a65e812388e97&id=cctv8&type=yy
-#EXTINF:-1 ,cctv8 
+#EXTINF:-1 ,cctv8（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001189/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 ,cctv9 
-https://iptv.catvod.com/live.php?id=cctv9%E7%BA%AA%E5%BD%95
-#EXTINF:-1 ,cctv9 
 http://61.156.228.12:8154/tsfile/live/0009_1.m3u8
-#EXTINF:-1 ,cctv9 
-https://migu.188766.xyz/?migutoken=c972b313255dde49563f5c6270cba06b&id=cctv9&type=yy
-#EXTINF:-1 ,cctv9 
-http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 ,cctv10 
-http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
-#EXTINF:-1 ,cctv10 
+#EXTINF:-1 ,cctv10（1080）  
 http://sh.lnott.top:880/dx10.m3u8
 #EXTINF:-1 ,cctv10 
-https://iptv.catvod.com/live.php?id=cctv10%E7%A7%91%E6%95%99
-#EXTINF:-1 ,cctv10 
-https://migu.188766.xyz/?migutoken=18b469d32dea38f615fbd8f9f0c1255c&id=cctv10&type=yy
-#EXTINF:-1 ,cctv10 
-https://migu.188766.xyz/?migutoken=7f3db641e805d62a9a4cca6fd9aa305e&id=cctv10&type=yy
-#EXTINF:-1 ,cctv10 
-https://iptv.catvod.com/live.php?id=cctv-10%20%E7%A7%91%E6%95%99
-#EXTINF:-1 ,cctv10 
-https://migu.188766.xyz/?migutoken=608676d3171dedacb52f0e4b00787144&id=cctv10&type=yy
-#EXTINF:-1 ,cctv11 
+http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,cctv11（720）  
 http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv11 
+#EXTINF:-1 ,cctv11（1080）  
 http://222.169.85.8:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 ,cctv11 
-https://iptv.catvod.com/live.php?id=cctv11%E6%88%8F%E6%9B%B2
-#EXTINF:-1 ,cctv11 
-https://migu.188766.xyz/?migutoken=f52899b7cadfe65daf2117cb2cc63432&id=cctv11&type=yy
-#EXTINF:-1 ,cctv11 
-https://iptv.catvod.com/live.php?id=cctv-11%20%E6%88%8F%E6%9B%B2
-#EXTINF:-1 ,cctv11 
-https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
-#EXTINF:-1 ,cctv11 
+#EXTINF:-1 ,cctv11（1080）  
 https://shyd.695847.xyz/cms001/ch00000090990000001309/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv11 
+#EXTINF:-1 ,cctv11（1080）  
 http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,cctv12 
+#EXTINF:-1 ,cctv12（1080）  
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,cctv12 
+#EXTINF:-1 ,cctv12（1080）  
 https://iptv.catvod.com/live.php?id=cctv12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
-#EXTINF:-1 ,cctv12 
-http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv12 
-https://migu.188766.xyz/?migutoken=54732af16271667e551ba28d9e4153b6&id=cctv12&type=yy
-#EXTINF:-1 ,cctv12 
-https://iptv.catvod.com/live.php?id=cctv-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
-#EXTINF:-1 ,cctv12 
-https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
-#EXTINF:-1 ,cctv12 
+#EXTINF:-1 ,cctv12（1080）  
 http://sh.lnott.top:880/dx12.m3u8
-#EXTINF:-1 ,cctv13 
-http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv13 
-http://jwplay.hebyun.com.cn/live/#EXTINF:-1 ,cctv13/1500k/tzwj_video.m3u8
-#EXTINF:-1 ,cctv13 
-https://migu.188766.xyz/?migutoken=f7f7ce4960704abc710940fa50815cd1&id=cctv13&type=yy
-#EXTINF:-1 ,cctv13 
-https://migu.188766.xyz/?migutoken=79a58a571c7c6d9d94987c7d63db8f58&id=cctv13&type=yy
-#EXTINF:-1 ,cctv13 
+#EXTINF:-1 ,cctv13（720）  
 http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv13 
-https://iptv.catvod.com/live.php?id=cctv13%E6%96%B0%E9%97%BB
-#EXTINF:-1 ,cctv13 
-https://migu.188766.xyz/?migutoken=d61b55ed10139864a341ece4a1f5272e&id=cctv13&type=yy
-#EXTINF:-1 ,cctv13 
-https://iptv.catvod.com/live.php?id=cctv-13%20%E6%96%B0%E9%97%BB
-#EXTINF:-1 ,cctv13 
+#EXTINF:-1 ,cctv13（720p）  
+http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 ,cctv13（1080）   
 https://shyd.695847.xyz/cms001/ch00000090990000001328/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv14 
+#EXTINF:-1 ,cctv14（720p）   
 http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 ,cctv14 
+#EXTINF:-1 ,cctv14（720）  
 http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 ,cctv14
-https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
-#EXTINF:-1 ,cctv14 
-https://event.pull.hebtv.com/jishi/cp2.m3u8
-#EXTINF:-1 ,cctv14 
-https://iptv.catvod.com/live.php?id=cctv14%E5%B0%91%E5%84%BF
-#EXTINF:-1 ,cctv14 
+#EXTINF:-1 ,cctv14（720）   
 http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
 #EXTINF:-1 ,cctv14 
-https://migu.188766.xyz/?migutoken=667af5a05e239b339233f3e2eebb021a&id=cctv14&type=yy
-#EXTINF:-1 ,cctv14 
-https://migu.188766.xyz/?migutoken=9935629f553b555524a4b2b0a5a468fc&id=cctv14&type=yy
-#EXTINF:-1 ,cctv14 
-https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-#EXTINF:-1 ,cctv14 
 https://shyd.695847.xyz/cms001/ch00000090990000001240/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv15 
+#EXTINF:-1 ,cctv15（720）  
 http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
 #EXTINF:-1 ,cctv15 
 http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv
 #EXTINF:-1 ,cctv15 
-https://iptv.catvod.com/live.php?id=cctv15%E9%9F%B3%E4%B9%90
-#EXTINF:-1 ,cctv15 
-https://migu.188766.xyz/?migutoken=99039060f07086b697cff9b7090100c2&id=cctv15&type=yy
-#EXTINF:-1 ,cctv15 
 https://shyd.695847.xyz/cms001/ch00000090990000001338/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 ,cgtn
+http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 ,凤凰资讯1
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 ,凤凰资讯2
