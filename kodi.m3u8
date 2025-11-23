@@ -15,7 +15,9 @@ http://61.156.228.12:8154/tsfile/live/0002_1.m3u8
 http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
 #EXTINF:-1 ,cctv3（1080） 
 https://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 ,cctv4 
+#EXTINF:-1 ,cctv4（720p） 
+http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 ,cctv4
 http://61.156.228.12:8154/tsfile/live/0004_1.m3u8
 #EXTINF:-1 ,cctv4 
 https://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
@@ -88,31 +90,21 @@ http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 ,凤凰资讯1
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 ,凤凰资讯2
-https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
+http://live4play.uk/livehttpplay?channel_id=20065
 #EXTINF:-1 ,鳳凰資訊3
 https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
 #EXTINF:-1 ,凤凰资讯4
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 ,凤凰资讯5
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 ,凤凰资讯6
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1761535820&token=5fbf05044e2b730b81617889dfb00535
-#EXTINF:-1 ,凤凰资讯7
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1760585411&token=7febd5c752dfb809741498d669ef0cad
-#EXTINF:-1 ,凤凰资讯8
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1759030213&token=384472c138fef169d08a46037283beb7
-#EXTINF:-1 ,凤凰资讯9
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1757403106&token=29a1fae26a5b4d00cfd9521da83e0d86
 #EXTINF:-1 ,凤凰中文1
-http://live4play.uk/livehttpplay?channel_id=20065
+http://27.41.245.32:801/hls/205/index.m3u8
 #EXTINF:-1 ,凤凰中文2
 http://27.41.245.32:801/hls/205/index.m3u8
 #EXTINF:-1 ,凤凰中文3
 https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 #EXTINF:-1 ,鳳凰中文4
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 ,凤凰中文5
-http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 #EXTINF:-1 ,凤凰香港1
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 ,凤凰香港2
@@ -123,10 +115,8 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 ,凤凰香港5
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 ,香港卫视1
+#EXTINF:-1 ,凤凰香港6
 https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
-#EXTINF:-1 ,香港卫视2
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 ,翡翠台480
 https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 #EXTINF:-1 ,TVB翡翠台1K
@@ -167,3 +157,147 @@ http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 ,美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 ,1905电影网1
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+#EXTINF:-1 ,1905电影网2
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+#EXTINF:-1 ,电影解说01
+http://live.nctv.top/douyu.php?id=8413092
+#EXTINF:-1 ,电影解说03
+http://live.nctv.top/douyu.php?id=8867878
+#EXTINF:-1 ,电影解说04
+http://live.nctv.top/douyu.php?id=8799435
+#EXTINF:-1 ,电影解说05
+http://live.nctv.top/douyu.php?id=4258555
+#EXTINF:-1 ,电影解说06
+http://live.nctv.top/douyu.php?id=8014467
+#EXTINF:-1 ,电影解说07
+http://live.nctv.top/douyu.php?id=8788687
+#EXTINF:-1 ,PP动漫
+http://live.nctv.top/douyu.php?id=9837291
+#EXTINF:-1 ,阿斗说电影
+http://live.nctv.top/huya.php?id=13303478
+#EXTINF:-1 ,阿钙扒瞎
+http://live.nctv.top/huya.php?id=15978172
+#EXTINF:-1 ,阿良说剧
+http://live.nctv.top/huya.php?id=20488841
+#EXTINF:-1 ,阿翔说电影
+http://live.nctv.top/huya.php?id=16868935
+#EXTINF:-1 ,爆笑解说
+http://live.nctv.top/douyu.php?id=2660125
+#EXTINF:-1 ,扁豆看电影
+http://live.nctv.top/huya.php?id=16028551
+#EXTINF:-1 ,斌哥漫说
+http://live.nctv.top/huya.php?id=18632116
+#EXTINF:-1 ,嫦娥撩电影
+http://live.nctv.top/huya.php?id=18201106
+#EXTINF:-1 ,大象放映室
+http://live.nctv.top/huya.php?id=21277391
+#EXTINF:-1 ,电影狂人
+http://live.nctv.top/huya.php?id=18715610
+#EXTINF:-1 ,疯狂解说家
+http://live.nctv.top/huya.php?id=18366196
+#EXTINF:-1 ,顾久撩电影
+http://live.nctv.top/huya.php?id=16422212
+#EXTINF:-1 ,虎妞说电影
+http://live.nctv.top/huya.php?id=20343144
+#EXTINF:-1 ,鸡哥说电影
+http://live.nctv.top/douyu.php?id=5067952
+#EXTINF:-1 ,柯南
+http://live.nctv.top/douyu.php?id=9065082
+#EXTINF:-1 ,科幻FANS
+http://live.nctv.top/douyu.php?id=3508304
+#EXTINF:-1 ,科幻梦工场
+http://live.nctv.top/huya.php?id=15152155
+#EXTINF:-1 ,亮哥讲电影
+http://live.nctv.top/huya.php?id=16144175
+#EXTINF:-1 ,刘老师说电影
+http://live.nctv.top/douyu.php?id=8317926
+#EXTINF:-1 ,鹿哥电影
+http://live.nctv.top/huya.php?id=24396360
+#EXTINF:-1 ,淼漫迷
+http://live.nctv.top/douyu.php?id=9455567
+#EXTINF:-1 ,牛叔看大片
+http://live.nctv.top/douyu.php?id=2758565
+#EXTINF:-1 ,培根悖论唠唠嗑
+http://live.nctv.top/douyu.php?id=5354713
+#EXTINF:-1 ,哇塞王美丽
+http://live.nctv.top/douyu.php?id=6725858
+#EXTINF:-1 ,乌贼说电影
+http://live.nctv.top/huya.php?id=16604522
+#EXTINF:-1 ,小川侃电影
+http://live.nctv.top/huya.php?id=15870999
+#EXTINF:-1 ,小冉看电影
+http://live.nctv.top/huya.php?id=17341907
+#EXTINF:-1 ,小涛讲电影
+http://live.nctv.top/douyu.php?id=8415464
+#EXTINF:-1 ,续哥说电影
+http://live.nctv.top/huya.php?id=24396472
+#EXTINF:-1 ,吟笑派
+http://live.nctv.top/douyu.php?id=2987100
+#EXTINF:-1 ,鱼丸电影
+http://live.nctv.top/huya.php?id=16615910
+#EXTINF:-1 ,宇哥讲电影
+http://live.nctv.top/douyu.php?id=8651489
+#EXTINF:-1 ,宇宙无敌韩三金
+http://live.nctv.top/douyu.php?id=3194372
+#EXTINF:-1 ,越哥说电影
+http://live.nctv.top/huya.php?id=15894162
+#EXTINF:-1 ,美剧解说轮播
+http://live.nctv.top/douyu.php?id=9643264
+#EXTINF:-1 ,经典美剧解说
+http://live.nctv.top/douyu.php?id=9123570
+#EXTINF:-1 ,牛叔说电影二
+http://129.150.54.232:10001/douyu/10010651
+#EXTINF:-1 ,百晓生说剧
+http://222.186.39.21:35466/douyu/9649681
+#EXTINF:-1 ,说电影
+http://129.150.54.232:10001/douyu/9643264
+#EXTINF:-1 ,老鱼说剧
+http://129.150.54.232:10001/douyu/9994377
+#EXTINF:-1 ,阎君说剧
+http://129.150.54.232:10001/douyu/10475459
+#EXTINF:-1 ,松轩说电影
+http://129.150.54.232:10001/douyu/1524969
+#EXTINF:-1 ,安小闫说电影x
+http://129.150.54.232:10001/douyu/1842621
+#EXTINF:-1 ,牛叔说电影
+http://129.150.54.232:10001/douyu/2758565
+#EXTINF:-1 ,老王说电影
+http://129.150.54.232:10001/douyu/9687733
+#EXTINF:-1 ,小司马解说
+http://222.186.39.21:35466/douyu/9660127
+#EXTINF:-1 ,北大落说大片
+http://129.150.54.232:10001/douyu/8828811
+#EXTINF:-1 ,冬粮说故事
+http://129.150.54.232:10001/douyu/5192695
+#EXTINF:-1 ,汪哥说电影
+http://129.150.54.232:10001/douyu/9312685
+#EXTINF:-1 ,据说放映室
+http://222.186.39.21:35466/douyu/8837964
+#EXTINF:-1 ,据说放映室
+http://129.150.54.232:10001/douyu/8837964
+#EXTINF:-1 ,童乐说电影
+http://129.150.54.232:10001/douyu/9660704
+#EXTINF:-1 ,飞碟说官方
+http://129.150.54.232:10001/douyu/1449125
+#EXTINF:-1 ,洗碗君解说
+http://129.150.54.232:10001/douyu/9446706
+#EXTINF:-1 ,鲨说电影
+http://222.186.39.21:35466/douyu/9544628
+#EXTINF:-1 ,爆笑解说
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2660125
+#EXTINF:-1 ,爆笑解说
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8317926
+#EXTINF:-1 ,代娱说美剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9123570
+#EXTINF:-1 ,3说电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9643264
+#EXTINF:-1 ,火龙果说电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9559158
+#EXTINF:-1 ,易说影视
+http://huanqiuzhibo.cn/manifest/douyu.php?id=10859591
+#EXTINF:-1 ,老皮讲电影
+http://live.nctv.top/huya.php?id=16968572
+#EXTINF:-1 ,默爷侃电影
+http://live.nctv.top/huya.php?id=17204307
