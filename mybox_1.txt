@@ -322,7 +322,7 @@ CCTV兵器,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.ctv
