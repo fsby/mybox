@@ -1,35 +1,5 @@
 
 央卫V4🇹🇭移动,#genre#
-CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
-CCTV2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
-CCTV3,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
-CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-CCTV4欧洲,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
-CCTV4美洲,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
-CCTV5+,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
-CCTV7,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
-CCTV8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
-CCTV9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
-CCTV10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
-CCTV11,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
-CCTV13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8#http://218.3.138.25:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
-CCTV15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
-CCTV16,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
-CCTV17,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV1,http://drive.mxmy.net:8888/udp/239.3.1.57:8152
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-
-
 CCTV1-综合HD,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经HD,http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺HD,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -41,81 +11,446 @@ CCTV13-新闻HD,http://218.3.138.25:1111/tsfile/live/1012_1.m3u8?key=txiptv&play
 
 
 
-🇰🇷afreecatv,#genre#
-📽️电视_1,https://stream1.freetv.fun/7a6628a8d5f6c2abf25bfacbbd5ae08e1f920354f8d4e80b5f6bd3dde20c5058.m3u8
-📽️电视_2,https://stream1.freetv.fun/c18031a09edf2759971c3ca6f7b88f9482bb95519153d068a0501cc707185221.m3u8
-📽️电视_4,https://stream1.freetv.fun/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
-📽️电视_5,https://stream1.freetv.fun/86564020a11d3ce6598f1e944855570a59fed9e02ab9471a5f04509c1e110938.m3u8
-📽️电视_6,https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
-📽️电视_7,https://stream1.freetv.fun/d0cefe080f8ae069da08ee88e3cd5eaf97066a83306c40f9202d40c997d2a5c8.m3u8
-📽️电视_8,https://stream1.freetv.fun/1a65936fac47823ed4a1a52eaed07ea6f759f23700ec9e324fc041b547cf5b35.m3u8
-📽️电视_9,https://stream1.freetv.fun/5b191816436ffcd9f7b70a3f51273a07764d04596b283ee30cb95f29a4fbf0b0.ctv
-📽️电视_10,https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
-📽️电视_11,https://stream1.freetv.fun/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
-📽️电视_12,https://stream1.freetv.fun/1462064e6ce0b3320ed2292c471d8c36d928c5c32f4fc70523d1f5e3a6f16576.ctv
-📽️电视_13,https://stream1.freetv.fun/a74de56c92b0158db19a1e3225a961c27cb2ffe0e04d6ecae2a1c5c54863583b.ctv
-📽️电视_14,https://stream1.freetv.fun/d17812c05918dba947a45b34c857dd68746f3a3bd7eccb9c39964b0515b008c7.m3u8
-📽️电视_15,https://stream1.freetv.fun/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-📽️电视_16,https://stream1.freetv.fun/c669fc298cc4753222b8f5d03ca8dd92239c19cab9d48fbfef5435414b98c17e.m3u8
-📽️电视_17,https://stream1.freetv.fun/ff3205f993bc272535d52c71efd9827d5eeb120b4902f091037e43ad269923b0.m3u8
-📽️电视_18,https://stream1.freetv.fun/6af904ba55a75ef8114a81f9fb117be987e8a4e987e4182a5e80fa91202ebdc6.ctv
-📽️电视_19,https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8
-📽️电视_31,https://stream1.freetv.fun/6d61f2e1b88461dd5293803a4095cd448455daa8a86b5dcdf453edc512a56c1f.m3u8
-📽️电视_32,https://stream1.freetv.fun/c3740b62e5a00e765e33c449038fcc594080d4fa094a3e562598ff6e9e0d30c8.ctv
-📽️电视_33,https://stream1.freetv.fun/f23baeb131a39d64c0bd6e0e0af1a03f34cb98ad84a95dbfff60c91621bf19c3.ctv
-📽️电视_34,https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
-📽️电视_35,https://stream1.freetv.fun/b1c6f0c8839dadd3d651ab5595f73b6041558c367730f79c48aa631ef5cb73eb.m3u8
-📽️电视_36,https://stream1.freetv.fun/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
-📽️电视_37,https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
-📽️电视_38,https://stream1.freetv.fun/cc07811a6b27d4b7ca2e1df70e93c41560f4844c620fc45221651fa73ad99211.m3u8
-📽️电视_39,https://stream1.freetv.fun/03ce80ad2f9fcc2616d80215280d7b7a36101969ecbb9584a47cd5675a9a62fd.m3u8
-📽️电视_40,https://stream1.freetv.fun/e625d9eaf25071824cf14fff40a086e00a09d34f815068438a29b1ffbe08e9fc.m3u8
-📽️电视_41,https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
-📽️电视_42,https://stream1.freetv.fun/4b86473a911d4424eaaa98666e49bc004f86fe44781b3178160d7e39bd07cd07.m3u8
-📽️电视_43,https://stream1.freetv.fun/77a21a5151073158af47fd5176324d7455541ae4797966d55b4e20b0ca3ee115.m3u8
-📽️电视_44,https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8034d3383cf5.m3u8
-📽️电视_46,https://stream1.freetv.fun/0588a4627434f713ed54f5f3c49d0b4820136436b66cda56f8238b06306a20e6.m3u8
-📽️电视_47,https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.ctv
-📽️电视_48,https://stream1.freetv.fun/fec834be45394d12f804c91e16982da939fcf989ad841584233fff3de872e58c.m3u8
-📽️电视_49,https://stream1.freetv.fun/2219177e4ff2f604f06c82fb65ea76548242edadde3979416047487569b13ba7.m3u8
-📽️电视_50,https://stream1.freetv.fun/58d0554bd604449e5e51815de31b24f1630722a58819a84b24559f961a8d2591.m3u8
-📽️电视_51,https://stream1.freetv.fun/37f0c699be072890c13ec865237fc705d7bd632991afd353eacfe88ece499e55.m3u8
-📽️电视_52,https://stream1.freetv.fun/b4fe0a0b701f854e38f67d5911b3e3099a8cbfe5d795de8aec8f0537188923c4.m3u8
-📽️电视_53,https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
-📽️电视_54,https://stream1.freetv.fun/bbc9f03b76dafc6db95ad9de129e1f672d0ffe5ad7ddbaf99d37a1be566535c1.m3u8
-📽️电视_55,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
-📽️电视_56,https://stream1.freetv.fun/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8
-📽️电视_57,https://stream1.freetv.fun/63be5e2eb71827603ceb081d704f423702a72c6964dabe3652ce846ad5996230.m3u8
-📽️电视_58,https://stream1.freetv.fun/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
-📽️电视_60,https://stream1.freetv.fun/f8833ee5972c336d79d87363b35d30653550dc6434c62603f2953ae60919c79d.ctv
-📽️电视_61,https://stream1.freetv.fun/c503c32a575ba4c7b6b590f945594b4d226906d8a898b42dd68da4b56d6ac1ce.m3u8
-📽️电视_62,https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8
-📽️电视_63,https://stream1.freetv.fun/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
-📽️电视_64,https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
-📽️电视_65,https://stream1.freetv.fun/eadbbbc48830ea9942ac1dbdd6678183b53494f95f8f5932a9aa90fa1c36f101.ctv
-📽️电视_66,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
-📽️电视_67,https://stream1.freetv.fun/b805be4ead12b9db51ac0233d7fde0367602cd05ef2257a4d5700a47fd4338a4.m3u8
-📽️电视_68,https://stream1.freetv.fun/94d30760be1ed3b51cad3621fd2ac3d619fc2814fc9b90d29c64401f128aa640.ctv
-📽️电视_69,https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
-📽️电视_71,https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.ctv
-📽️电视_76,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
-📽️电视_77,https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.m3u8
-📽️电视_78,https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
-📽️电视_79,https://stream1.freetv.fun/332e58d4889775e85e40eb15fb99213958582128ad269277f3393bb0f2f54039.ctv
-📽️电视_80,https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.ctv
-📽️电视_81,https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
-📽️电视_82,https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.m3u8
-📽️电视_83,https://stream1.freetv.fun/bcc3b37d4563a9b1907324fc914e8a5f60d904fd6e0edaea3c4b63c356c57a55.m3u8
-📽️电视_84,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-📽️电视_91,https://stream1.freetv.fun/64e5c92bdc0b9841a5f1679170c4c1f2165ec74c06a966bc3b3281f5e73da1b2.m3u8
-📽️电视_92,https://stream1.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
-📽️电视_93,https://stream1.freetv.fun/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
-📽️电视_94,https://stream1.freetv.fun/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
-📽️电视_98,https://stream1.freetv.fun/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31ab0045d830a.m3u8
-📽️电视_106,https://stream1.freetv.fun/664705905935bd2a420105e1221286de734c45cc4282cce89b423ff9eeb4d7c6.m3u8
-📽️电视_107,https://stream1.freetv.fun/4fb8d9ca5cf64614dd5f919c2877d965bac324851ed3624f419f30a69b59545b.m3u8
-📽️电视_108,https://stream1.freetv.fun/f321a35cdd093250058343b771bb7e4d22f7522692b7d421ca5dbe341e6828ed.m3u8
-📽️电视_109,https://stream1.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.ctv
+🔞🈲欧美频道3,#genre#
+
+Unknown_93,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/9066/index.m3u8?
+  Unknown_94,http://cdn.adultiptv.net/anal.m3u8
+  Unknown_95,http://cdn.adultiptv.net/asian.m3u8
+  Unknown_96,http://cdn.adultiptv.net/bigass.m3u8
+  Unknown_97,http://cdn.adultiptv.net/bigdick.m3u8
+  Unknown_98,http://cdn.adultiptv.net/bigtits.m3u8
+  Unknown_100,http://cdn.adultiptv.net/blowjob.m3u8
+  Unknown_101,http://cdn.adultiptv.net/brunette.m3u8
+  Unknown_102,http://cdn.adultiptv.net/fetish.m3u8
+  Unknown_103,http://cdn.adultiptv.net/gangbang.m3u8
+  Unknown_104,http://cdn.adultiptv.net/gay.m3u8
+  Unknown_105,http://cdn.adultiptv.net/hardcore.m3u8
+  Unknown_106,http://cdn.adultiptv.net/interracial.m3u8
+  Unknown_107,http://cdn.adultiptv.net/latina.m3u8
+  Unknown_108,http://cdn.adultiptv.net/lesbian.m3u8
+  Unknown_109,http://cdn.adultiptv.net/livecams.m3u8
+  Unknown_110,http://cdn.adultiptv.net/milf.m3u8
+  Unknown_111,http://cdn.adultiptv.net/pornstar.m3u8
+  Unknown_112,http://cdn.adultiptv.net/pov.m3u8
+  Unknown_113,http://cdn.adultiptv.net/rough.m3u8
+  Unknown_114,http://cdn.adultiptv.net/russian.m3u8
+  Unknown_115,http://cdn.adultiptv.net/teen.m3u8
+  Unknown_116,http://cdn.adultiptv.net/threesome.m3u8
+  Unknown_118,http://live.adultiptv.net/anal.m3u8
+  Unknown_119,http://live.adultiptv.net/asian.m3u8
+  Unknown_120,http://live.adultiptv.net/bigass.m3u8
+  Unknown_121,http://live.adultiptv.net/bigdick.m3u8
+  Unknown_122,http://live.adultiptv.net/bigtits.m3u8
+  Unknown_123,http://live.adultiptv.net/blonde.m3u8
+  Unknown_124,http://live.adultiptv.net/blowjob.m3u8
+  Unknown_125,http://live.adultiptv.net/brunette.m3u8
+  Unknown_126,http://live.adultiptv.net/compilation.m3u8
+  Unknown_127,http://live.adultiptv.net/cuckold.m3u8
+  Unknown_128,http://live.adultiptv.net/fetish.m3u8
+  Unknown_129,http://live.adultiptv.net/gangbang.m3u8
+  Unknown_130,http://live.adultiptv.net/gay.m3u8
+  Unknown_131,http://live.adultiptv.net/hardcore.m3u8
+  Unknown_132,http://live.adultiptv.net/interracial.m3u8
+Unknown_133,http://live.adultiptv.net/latina.m3u8
+  Unknown_134,http://live.adultiptv.net/lesbian.m3u8
+  Unknown_135,http://live.adultiptv.net/livecams.m3u8
+  Unknown_136,http://live.adultiptv.net/milf.m3u8
+  Unknown_137,http://live.adultiptv.net/pornstar.m3u8
+  Unknown_138,http://live.adultiptv.net/pov.m3u8
+  Unknown_139,http://live.adultiptv.net/rough.m3u8
+  Unknown_140,http://live.adultiptv.net/russian.m3u8
+  Unknown_141,http://live.adultiptv.net/teen.m3u8
+  Unknown_142,http://live.adultiptv.net/threesome.m3u8
+BigAss,http://cdn.adultiptv.net/bigass.m3u8
+  Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+  Brunette,http://cdn.adultiptv.net/brunette.m3u8
+  Compilation,http://cdn.adultiptv.net/compilation.m3u8
+  Fetish,http://cdn.adultiptv.net/fetish.m3u8
+  Gay,http://cdn.adultiptv.net/gay.m3u8
+  LiveCams,http://cdn.adultiptv.net/livecams.m3u8
+  PornStar,http://cdn.adultiptv.net/pornstar.m3u8
+  POV,http://cdn.adultiptv.net/pov.m3u8
+  Rough,http://cdn.adultiptv.net/rough.m3u8
+  Teen,http://cdn.adultiptv.net/teen.m3u8
+午夜6,http://cdn.adultiptv.net/lesbian.m3u8
+  EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+  MiamiTVJennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+  MyCamTVAnal,http://live.mycamtv.com/anal.m3u8
+  MyCamTVArabGirls,http://live.mycamtv.com/arab.m3u8
+  MyCamTVAsianGirls,http://live.mycamtv.com/asian.m3u8
+  MyCamTVBigAssGirls,http://live.mycamtv.com/bigass.m3u8
+  MyCamTVBlondeGirls,http://live.mycamtv.com/blonde.m3u8
+  MyCamTVBlowjob,http://live.mycamtv.com/blowjob.m3u8
+  MyCamTVBrunetteGirls,http://live.mycamtv.com/brunette.m3u8
+  MyCamTVEbonyGirls,http://live.mycamtv.com/ebony.m3u8
+  MyCamTVGirlsSquirt,http://live.mycamtv.com/squirt.m3u8
+  MyCamTVLatinaGirls,http://live.mycamtv.com/latina.m3u8
+  MyCamTVMature,http://live.mycamtv.com/bigtits.m3u8
+  MyCamTVMediumGirls,http://live.mycamtv.com/medium.m3u8
+  MyCamTVMILF,http://live.mycamtv.com/milf.m3u8
+  MyCamTVSkinnyGirls,http://live.mycamtv.com/skinny.m3u8
+  MyCamTVTeenGirls,http://live.mycamtv.com/teen.m3u8
+  MyCamTVWhiteGirls,http://live.mycamtv.com/white.m3u8
+  MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
+  Anal,http://cdn.adultiptv.net/anal.m3u8
+  Asian,http://cdn.adultiptv.net/asian.m3u8
+  BigAss,http://cdn.adultiptv.net/bigass.m3u8
+  BigDick,http://cdn.adultiptv.net/bigdick.m3u8
+  BigTits,http://cdn.adultiptv.net/bigtits.m3u8
+  Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+  Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+  Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+  HardCore,http://cdn.adultiptv.net/hardcore.m3u8
+  Interracial,http://cdn.adultiptv.net/interracial.m3u8
+  Latina,http://cdn.adultiptv.net/latina.m3u8
+  Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+  MILF,http://cdn.adultiptv.net/milf.m3u8
+  Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+  Russian,http://cdn.adultiptv.net/russian.m3u8
+  Threesome,http://cdn.adultiptv.net/threesome.m3u8
+  TV,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Cams,http://cdn.adultiptv.net/livecams.m3u8
+  Dick,http://cdn.adultiptv.net/bigdick.m3u8
+  Tits,http://cdn.adultiptv.net/bigtits.m3u8
+  Ass,http://cdn.adultiptv.net/bigass.m3u8
+  Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+
+
+
+CherryPimps,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6185/index.m3u8
+BrazzersHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
+FapTVCompilation,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6208/index.m3u8
+Cum4k,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6190/index.m3u8
+CineManExExExTWO,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20090/index.m3u8
+Extasy4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5014/index.m3u8
+DorcelClub,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6197/index.m3u8
+EvolvedFights,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6200/index.m3u8
+BalkanErotic,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6270/index.m3u8
+AdultTime,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6166/index.m3u8
+FapTVAnal,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6206/index.m3u8
+DDFBusty,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6193/index.m3u8
+DigitalDesireHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6195/index.m3u8
+ExtasyHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6201/index.m3u8
+BabesHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6171/index.m3u8
+LittleAsiansHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6230/index.m3u8
+NaughtyAmerica,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6237/index.m3u8
+FemJoy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6212/index.m3u8
+RedXXX,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6281/index.m3u8
+TransAngels,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6259/index.m3u8
+LethalHardcore,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6229/index.m3u8
+ox-axHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6239/index.m3u8
+MYLFTVHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
+Visit-XTV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6263/index.m3u8
+PublicAgent,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
+RedlightHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9066/index.m3u8
+VividRedHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/2162/index.m3u8
+HustlerHDEurope,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/244/index.m3u8
+HotGuysFuck,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6223/index.m3u8
+Holed,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6221/index.m3u8
+Club17,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6186/index.m3u8
+DEPenthousePassionHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20025/index.m3u8
+JapanHDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
+DigitalPlaygroundHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6196/index.m3u8
+Bang!,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6174/index.m3u8
+RKTV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6249/index.m3u8
+SINematica,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6255/index.m3u8
+FapTVLesbian,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6209/index.m3u8
+RedLips,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6271/index.m3u8
+PROKOPTVXXXHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/19401/index.m3u8
+HandsonHardcore,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6217/index.m3u8
+GotMYLF,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6216/index.m3u8
+WeLiveTogether,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6266/index.m3u8
+EmanuelleHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6272/index.m3u8
+MonstersofCock,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6235/index.m3u8
+PrivateHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6245/index.m3u8
+TrueAmateurs,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6260/index.m3u8
+BlackedHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6178/index.m3u8
+Extreme,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6273/index.m3u8
+XYMaxHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6286/index.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+DaughterSwap,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6191/index.m3u8
+DaywithaPornstar,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6192/index.m3u8
+LiveCams,http://cdn.adultiptv.net/livecams.m3u8
+BigAss,http://cdn.adultiptv.net/bigass.m3u8
+CumLouder,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6189/index.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+DDFNetwork,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6194/index.m3u8
+EvilAngelHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6199/index.m3u8
+FakeTaxiHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+centoxcento,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6184/index.m3u8
+VixenHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6265/index.m3u8
+MetArtHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6233/index.m3u8
+笠木一香,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+ASTTV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6169/index.m3u8
+RKPrime,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6248/index.m3u8
+PenthouseGoldHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5011/index.m3u8
+PenthouseQuickiesHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5013/index.m3u8
+Wicked,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6268/index.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+晴佳,https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+PlayboyLA,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6280/index.m3u8
+PenthousePassion,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5010/index.m3u8
+Lesbea,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6227/index.m3u8
+HitzefreiHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6220/index.m3u8
+XYPlusHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6288/index.m3u8
+春埼芽衣3,https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+加勒比001THE4名,https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+松永纱奈6,https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+BigDick,http://cdn.adultiptv.net/bigdick.m3u8
+TushyHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6261/index.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+
+🔞🈲欧美🦊,#genre#
+欧美1,https://vod.mycamtv.net/1.m3u8
+欧美2,https://vod.mycamtv.net/2.m3u8
+欧美3,https://vod.mycamtv.net/3.m3u8
+欧美4,https://vod.mycamtv.net/4.m3u8
+欧美5,https://vod.mycamtv.net/5.m3u8
+欧美6,https://vod.mycamtv.net/6.m3u8
+欧美7,https://vod.mycamtv.net/7.m3u8
+欧美8,https://vod.mycamtv.net/8.m3u8
+欧美9,https://vod.mycamtv.net/9.m3u8
+欧美10,https://vod.mycamtv.net/10.m3u8
+欧美11,https://vod.mycamtv.net/11.m3u8
+欧美12,https://vod.mycamtv.net/12.m3u8
+欧美13,https://vod.mycamtv.net/13.m3u8
+欧美14,https://vod.mycamtv.net/14.m3u8
+欧美15,https://vod.mycamtv.net/15.m3u8
+欧美16,https://vod.mycamtv.net/16.m3u8
+欧美17,https://vod.mycamtv.net/17.m3u8
+欧美18,https://vod.mycamtv.net/18.m3u8
+欧美19,https://vod.mycamtv.net/19.m3u8
+欧美20,https://vod.mycamtv.net/20.m3u8
+欧美21,https://vod.mycamtv.net/21.m3u8
+欧美22,https://vod.mycamtv.net/22.m3u8
+欧美24,https://vod.mycamtv.net/24.m3u8
+欧美23,https://vod.mycamtv.net/23.m3u8
+欧美25,https://vod.mycamtv.net/25.m3u8
+欧美26,https://vod.mycamtv.net/26.m3u8
+欧美27,https://vod.mycamtv.net/27.m3u8
+欧美28,https://vod.mycamtv.net/28.m3u8
+欧美29,https://vod.mycamtv.net/29.m3u8
+欧美30,https://vod.mycamtv.net/30.m3u8
+欧美31,https://vod.mycamtv.net/31.m3u8
+欧美32,https://vod.mycamtv.net/32.m3u8
+欧美33,https://vod.mycamtv.net/33.m3u8
+欧美34,https://vod.mycamtv.net/34.m3u8
+欧美35,https://vod.mycamtv.net/35.m3u8
+欧美36,https://vod.mycamtv.net/36.m3u8
+欧美37,https://vod.mycamtv.net/37.m3u8
+欧美38,https://vod.mycamtv.net/38.m3u8
+欧美39,https://vod.mycamtv.net/39.m3u8
+欧美40,https://vod.mycamtv.net/40.m3u8
+欧美41,https://vod.mycamtv.net/41.m3u8
+欧美42,https://vod.mycamtv.net/42.m3u8
+欧美43,https://vod.mycamtv.net/43.m3u8
+欧美44,https://vod.mycamtv.net/44.m3u8
+欧美45,https://vod.mycamtv.net/45.m3u8
+欧美46,https://vod.mycamtv.net/46.m3u8
+欧美47,https://vod.mycamtv.net/47.m3u8
+欧美48,https://vod.mycamtv.net/48.m3u8
+欧美49,https://vod.mycamtv.net/49.m3u8
+欧美50,https://vod.mycamtv.net/50.m3u8
+欧美51,https://vod.mycamtv.net/51.m3u8
+欧美52,https://vod.mycamtv.net/52.m3u8
+欧美53,https://vod.mycamtv.net/53.m3u8
+欧美54,https://vod.mycamtv.net/54.m3u8
+欧美56,https://vod.mycamtv.net/56.m3u8
+欧美55,https://vod.mycamtv.net/55.m3u8
+欧美58,https://vod.mycamtv.net/58.m3u8
+欧美57,https://vod.mycamtv.net/57.m3u8
+欧美60,https://vod.mycamtv.net/60.m3u8
+欧美59,https://vod.mycamtv.net/59.m3u8
+欧美61,https://vod.mycamtv.net/61.m3u8
+欧美62,https://vod.mycamtv.net/62.m3u8
+欧美64,https://vod.mycamtv.net/64.m3u8
+欧美63,https://vod.mycamtv.net/63.m3u8
+欧美65,https://vod.mycamtv.net/65.m3u8
+欧美66,https://vod.mycamtv.net/66.m3u8
+欧美67,https://vod.mycamtv.net/67.m3u8
+欧美68,https://vod.mycamtv.net/68.m3u8
+欧美69,https://vod.mycamtv.net/69.m3u8
+欧美70,https://vod.mycamtv.net/70.m3u8
+欧美71,https://vod.mycamtv.net/71.m3u8
+欧美72,https://vod.mycamtv.net/72.m3u8
+欧美73,https://vod.mycamtv.net/73.m3u8
+欧美74,https://vod.mycamtv.net/74.m3u8
+欧美75,https://vod.mycamtv.net/75.m3u8
+欧美76,https://vod.mycamtv.net/76.m3u8
+欧美77,https://vod.mycamtv.net/77.m3u8
+欧美78,https://vod.mycamtv.net/78.m3u8
+欧美79,https://vod.mycamtv.net/79.m3u8
+欧美80,https://vod.mycamtv.net/80.m3u8
+欧美81,https://vod.mycamtv.net/81.m3u8
+欧美82,https://vod.mycamtv.net/82.m3u8
+欧美83,https://vod.mycamtv.net/83.m3u8
+欧美84,https://vod.mycamtv.net/84.m3u8
+欧美85,https://vod.mycamtv.net/85.m3u8
+欧美86,https://vod.mycamtv.net/86.m3u8
+欧美87,https://vod.mycamtv.net/87.m3u8
+欧美88,https://vod.mycamtv.net/88.m3u8
+欧美89,https://vod.mycamtv.net/89.m3u8
+欧美90,https://vod.mycamtv.net/90.m3u8
+欧美91,https://vod.mycamtv.net/91.m3u8
+欧美92,https://vod.mycamtv.net/92.m3u8
+欧美93,https://vod.mycamtv.net/93.m3u8
+欧美94,https://vod.mycamtv.net/94.m3u8
+欧美95,https://vod.mycamtv.net/95.m3u8
+欧美96,https://vod.mycamtv.net/96.m3u8
+欧美97,https://vod.mycamtv.net/97.m3u8
+欧美98,https://vod.mycamtv.net/98.m3u8
+欧美99,https://vod.mycamtv.net/99.m3u8
+欧美100,https://vod.mycamtv.net/100.m3u8
+欧美101,https://vod.mycamtv.net/101.m3u8
+欧美102,https://vod.mycamtv.net/102.m3u8
+欧美103,https://vod.mycamtv.net/103.m3u8
+欧美104,https://vod.mycamtv.net/104.m3u8
+欧美105,https://vod.mycamtv.net/105.m3u8
+欧美106,https://vod.mycamtv.net/106.m3u8
+欧美107,https://vod.mycamtv.net/107.m3u8
+欧美108,https://vod.mycamtv.net/108.m3u8
+欧美110,https://vod.mycamtv.net/110.m3u8
+欧美109,https://vod.mycamtv.net/109.m3u8
+欧美111,https://vod.mycamtv.net/111.m3u8
+欧美112,https://vod.mycamtv.net/112.m3u8
+欧美113,https://vod.mycamtv.net/113.m3u8
+欧美114,https://vod.mycamtv.net/114.m3u8
+欧美115,https://vod.mycamtv.net/115.m3u8
+欧美116,https://vod.mycamtv.net/116.m3u8
+欧美117,https://vod.mycamtv.net/117.m3u8
+欧美118,https://vod.mycamtv.net/118.m3u8
+欧美119,https://vod.mycamtv.net/119.m3u8
+欧美120,https://vod.mycamtv.net/120.m3u8
+欧美121,https://vod.mycamtv.net/121.m3u8
+欧美122,https://vod.mycamtv.net/122.m3u8
+欧美123,https://vod.mycamtv.net/123.m3u8
+欧美124,https://vod.mycamtv.net/124.m3u8
+欧美125,https://vod.mycamtv.net/125.m3u8
+欧美126,https://vod.mycamtv.net/126.m3u8
+欧美127,https://vod.mycamtv.net/127.m3u8
+欧美128,https://vod.mycamtv.net/128.m3u8
+欧美129,https://vod.mycamtv.net/129.m3u8
+欧美130,https://vod.mycamtv.net/130.m3u8
+欧美131,https://vod.mycamtv.net/131.m3u8
+欧美132,https://vod.mycamtv.net/132.m3u8
+欧美133,https://vod.mycamtv.net/133.m3u8
+欧美134,https://vod.mycamtv.net/134.m3u8
+欧美135,https://vod.mycamtv.net/135.m3u8
+欧美136,https://vod.mycamtv.net/136.m3u8
+欧美137,https://vod.mycamtv.net/137.m3u8
+欧美138,https://vod.mycamtv.net/138.m3u8
+欧美139,https://vod.mycamtv.net/139.m3u8
+欧美140,https://vod.mycamtv.net/140.m3u8
+欧美141,https://vod.mycamtv.net/141.m3u8
+欧美142,https://vod.mycamtv.net/142.m3u8
+欧美143,https://vod.mycamtv.net/143.m3u8
+欧美144,https://vod.mycamtv.net/144.m3u8
+欧美145,https://vod.mycamtv.net/145.m3u8
+欧美146,https://vod.mycamtv.net/146.m3u8
+欧美147,https://vod.mycamtv.net/147.m3u8
+欧美148,https://vod.mycamtv.net/148.m3u8
+欧美149,https://vod.mycamtv.net/149.m3u8
+欧美150,https://vod.mycamtv.net/150.m3u8
+欧美151,https://vod.mycamtv.net/151.m3u8
+欧美152,https://vod.mycamtv.net/152.m3u8
+欧美153,https://vod.mycamtv.net/153.m3u8
+欧美154,https://vod.mycamtv.net/154.m3u8
+欧美155,https://vod.mycamtv.net/155.m3u8
+欧美156,https://vod.mycamtv.net/156.m3u8
+欧美157,https://vod.mycamtv.net/157.m3u8
+欧美158,https://vod.mycamtv.net/158.m3u8
+欧美159,https://vod.mycamtv.net/159.m3u8
+欧美160,https://vod.mycamtv.net/160.m3u8
+欧美161,https://vod.mycamtv.net/161.m3u8
+欧美162,https://vod.mycamtv.net/162.m3u8
+欧美163,https://vod.mycamtv.net/163.m3u8
+欧美164,https://vod.mycamtv.net/164.m3u8
+欧美165,https://vod.mycamtv.net/165.m3u8
+欧美166,https://vod.mycamtv.net/166.m3u8
+欧美167,https://vod.mycamtv.net/167.m3u8
+欧美168,https://vod.mycamtv.net/168.m3u8
+欧美169,https://vod.mycamtv.net/169.m3u8
+欧美170,https://vod.mycamtv.net/170.m3u8
+欧美171,https://vod.mycamtv.net/171.m3u8
+欧美172,https://vod.mycamtv.net/172.m3u8
+欧美173,https://vod.mycamtv.net/173.m3u8
+欧美174,https://vod.mycamtv.net/174.m3u8
+欧美175,https://vod.mycamtv.net/175.m3u8
+欧美176,https://vod.mycamtv.net/176.m3u8
+欧美177,https://vod.mycamtv.net/177.m3u8
+欧美178,https://vod.mycamtv.net/178.m3u8
+欧美179,https://vod.mycamtv.net/179.m3u8
+欧美180,https://vod.mycamtv.net/180.m3u8
+欧美182,https://vod.mycamtv.net/182.m3u8
+欧美181,https://vod.mycamtv.net/181.m3u8
+欧美183,https://vod.mycamtv.net/183.m3u8
+欧美184,https://vod.mycamtv.net/184.m3u8
+欧美185,https://vod.mycamtv.net/185.m3u8
+欧美186,https://vod.mycamtv.net/186.m3u8
+欧美187,https://vod.mycamtv.net/187.m3u8
+欧美188,https://vod.mycamtv.net/188.m3u8
+欧美189,https://vod.mycamtv.net/189.m3u8
+欧美190,https://vod.mycamtv.net/190.m3u8
+欧美191,https://vod.mycamtv.net/191.m3u8
+欧美192,https://vod.mycamtv.net/192.m3u8
+欧美193,https://vod.mycamtv.net/193.m3u8
+欧美194,https://vod.mycamtv.net/194.m3u8
+欧美195,https://vod.mycamtv.net/195.m3u8
+欧美196,https://vod.mycamtv.net/196.m3u8
+欧美197,https://vod.mycamtv.net/197.m3u8
+欧美198,https://vod.mycamtv.net/198.m3u8
+欧美199,https://vod.mycamtv.net/199.m3u8
+欧美200,https://vod.mycamtv.net/200.m3u8
+欧美201,https://vod.mycamtv.net/201.m3u8
+欧美202,https://vod.mycamtv.net/202.m3u8
+欧美203,https://vod.mycamtv.net/203.m3u8
+欧美204,https://vod.mycamtv.net/204.m3u8
+欧美205,https://vod.mycamtv.net/205.m3u8
+欧美206,https://vod.mycamtv.net/206.m3u8
+欧美207,https://vod.mycamtv.net/207.m3u8
+欧美208,https://vod.mycamtv.net/208.m3u8
+欧美209,https://vod.mycamtv.net/209.m3u8
+欧美210,https://vod.mycamtv.net/210.m3u8
+欧美211,https://vod.mycamtv.net/211.m3u8
+欧美212,https://vod.mycamtv.net/212.m3u8
+欧美213,https://vod.mycamtv.net/213.m3u8
+欧美214,https://vod.mycamtv.net/214.m3u8
+欧美215,https://vod.mycamtv.net/215.m3u8
+欧美216,https://vod.mycamtv.net/216.m3u8
+欧美217,https://vod.mycamtv.net/217.m3u8
+欧美218,https://vod.mycamtv.net/218.m3u8
+欧美219,https://vod.mycamtv.net/219.m3u8
+欧美220,https://vod.mycamtv.net/220.m3u8
+欧美221,https://vod.mycamtv.net/221.m3u8
+欧美222,https://vod.mycamtv.net/222.m3u8
+欧美223,https://vod.mycamtv.net/223.m3u8
+欧美224,https://vod.mycamtv.net/224.m3u8
+欧美225,https://vod.mycamtv.net/225.m3u8
+欧美226,https://vod.mycamtv.net/226.m3u8
+欧美227,https://vod.mycamtv.net/227.m3u8
+欧美228,https://vod.mycamtv.net/228.m3u8
+欧美229,https://vod.mycamtv.net/229.m3u8
+欧美230,https://vod.mycamtv.net/230.m3u8
+欧美231,https://vod.mycamtv.net/231.m3u8
+欧美232,https://vod.mycamtv.net/232.m3u8
+欧美233,https://vod.mycamtv.net/233.m3u8
+欧美234,https://vod.mycamtv.net/234.m3u8
+欧美235,https://vod.mycamtv.net/235.m3u8
+欧美236,https://vod.mycamtv.net/236.m3u8
+欧美237,https://vod.mycamtv.net/237.m3u8
+欧美238,https://vod.mycamtv.net/238.m3u8
+欧美239,https://vod.mycamtv.net/239.m3u8
+欧美240,https://vod.mycamtv.net/240.m3u8
+欧美241,https://vod.mycamtv.net/241.m3u8
+欧美242,https://vod.mycamtv.net/242.m3u8
+欧美243,https://vod.mycamtv.net/243.m3u8
+
 
 
 
