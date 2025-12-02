@@ -266,22 +266,22 @@ CETV早期教育,https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9e
 央视720p,#genre#
 CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
-CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
-CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
+ CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
+ CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv
 CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv
-CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
-CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
+ CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
+ CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
 CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv
 CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
-CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv
+ CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv
 CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
-CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
-CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
-CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
-CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv
-CGTN,http://218.17.33.178:53290/tsfile/live/1018_1.m3u8?key=txiptv
+ CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
+ CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
+ CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
+ CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv
+ CGTN,http://218.17.33.178:53290/tsfile/live/1018_1.m3u8?key=txiptv
 
 
 CCTV1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
@@ -1976,27 +1976,44 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://51.89.166.17:3002/index.php?id=phoenixinfo_hd
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,https://stream1.freetv.fun/bfd140266f0bc1d9689c8cca261521038b45d662a160a3785d45d074b26899c2.m3u8
+凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.ctv
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文[1280x720],https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8?key=txiptv
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -2006,18 +2023,45 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文,http://51.89.166.17:3002/index.php?id=phoenixtv_hd
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
+凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
+凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+凤凰中文,https://stream1.freetv.fun/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.ctv
+凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
 凤凰香港[1280x720],http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港,http://51.89.166.17:3002/index.php?id=hkphoenix_twn
+凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-9.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
+凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
