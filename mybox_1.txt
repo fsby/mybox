@@ -3928,12 +3928,13 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 
 港澳台,#genre#
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯audio,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://27.191.203.209:19999/rtp/239.254.201.3:5227$河北电信11
 凤凰资讯,http://27.184.29.60:12312/rtp/239.254.201.3:5227$河北电信21
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://51.89.166.17:3002/index.php?id=phoenixinfo_hd
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
@@ -3944,7 +3945,6 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://27.191.203.209:19999/rtp/239.254.201.2:5226$河北电信11
 凤凰中文,http://27.184.29.60:12312/rtp/239.254.201.2:5226$河北电信21
