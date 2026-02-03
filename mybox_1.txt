@@ -3951,6 +3951,7 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文audio,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://51.89.166.17:3002/index.php?id=phoenixtv_hd
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
