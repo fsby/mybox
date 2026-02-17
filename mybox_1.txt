@@ -96,7 +96,24 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-
+CCTV1,http://183.250.156.180:9999/newlive/live/hls/1/live.m3u8
+CCTV2,http://183.250.156.180:9999/newlive/live/hls/2/live.m3u8
+CCTV3,http://183.250.156.180:9999/newlive/live/hls/3/live.m3u8
+CCTV4,http://183.250.156.180:9999/newlive/live/hls/4/live.m3u8
+CCTV5,http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
+CCTV5+,http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
+CCTV6,http://183.250.156.180:9999/newlive/live/hls/7/live.m3u8
+CCTV7,http://183.250.156.180:9999/newlive/live/hls/8/live.m3u8
+CCTV8,http://183.250.156.180:9999/newlive/live/hls/9/live.m3u8
+CCTV9,http://183.250.156.180:9999/newlive/live/hls/10/live.m3u8
+CCTV10,http://183.250.156.180:9999/newlive/live/hls/11/live.m3u8
+CCTV11,http://183.250.156.180:9999/newlive/live/hls/12/live.m3u8
+CCTV12,http://183.250.156.180:9999/newlive/live/hls/13/live.m3u8
+CCTV13,http://183.250.156.180:9999/newlive/live/hls/14/live.m3u8
+CCTV14,http://183.250.156.180:9999/newlive/live/hls/15/live.m3u8
+CCTV15,http://183.250.156.180:9999/newlive/live/hls/16/live.m3u8
+CCTV16,http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
+CGTN,http://183.250.156.180:9999/newlive/live/hls/18/live.m3u8
 
 
 
@@ -530,6 +547,23 @@ CCTV13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV1,http://43.251.226.89:8080/play/888.m3u8
+CCTV1综合,http://live.chinacert.cftest5.cn/mgtv/608807420.m3u8
+CCTV2财经,http://live.chinacert.cftest5.cn/mgtv/631780532.m3u8
+CCTV3综艺,http://live.chinacert.cftest5.cn/mgtv/624878271.m3u8
+CCTV4中文国际,http://live.chinacert.cftest5.cn/mgtv/631780421.m3u8
+CCTV5体育,http://live.chinacert.cftest5.cn/mgtv/641886683.m3u8
+CCTV5+体育赛事,http://live.chinacert.cftest5.cn/mgtv/641886773.m3u8
+CCTV6电影,http://live.chinacert.cftest5.cn/mgtv/624878396.m3u8
+CCTV7国防军事,http://live.chinacert.cftest5.cn/mgtv/673168121.m3u8
+CCTV8电视剧,http://live.chinacert.cftest5.cn/mgtv/624878356.m3u8
+CCTV9纪录,http://live.chinacert.cftest5.cn/mgtv/673168140.m3u8
+CCTV10科教,http://live.chinacert.cftest5.cn/mgtv/624878405.m3u8
+CCTV11戏曲,http://live.chinacert.cftest5.cn/mgtv/667987558.m3u8
+CCTV12社会与法,http://live.chinacert.cftest5.cn/mgtv/673168185.m3u8
+CCTV13新闻,http://live.chinacert.cftest5.cn/mgtv/608807423.m3u8
+CCTV14少儿,http://live.chinacert.cftest5.cn/mgtv/624878440.m3u8
+CCTV15音乐,http://live.chinacert.cftest5.cn/mgtv/673168223.m3u8
+CCTV17农业农村,http://live.chinacert.cftest5.cn/mgtv/673168256.m3u8
 CCTV新动漫,http://43.251.226.89:8080/play/889.m3u8
 CETV1,http://120.238.94.10:9901/tsfile/live/1061_1.m3u8?key=txiptv
 CCTV第一剧场,http://120.238.94.10:9901/tsfile/live/1086_1.m3u8?key=txiptv
@@ -1243,10 +1277,12 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 卫视频道,#genre#
+
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,https://iptv.gssino.com:8051/udp/239.255.30.123:8231
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -3256,6 +3292,8 @@ CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w
 
 
 解说频道,#genre#
+解说_阿斗说电影,http://live.chinacert.cftest5.cn/huya/13303478
+阿斗归来了,https://www.goodiptv.club/huya/13303478
 电影解说01,http://live.nctv.top/douyu.php?id=8413092
 电影解说03,http://live.nctv.top/douyu.php?id=8867878
 电影解说04,http://live.nctv.top/douyu.php?id=8799435
@@ -3263,7 +3301,7 @@ CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w
 电影解说06,http://live.nctv.top/douyu.php?id=8014467
 电影解说07,http://live.nctv.top/douyu.php?id=8788687
 PP动漫,http://live.nctv.top/douyu.php?id=9837291
-阿斗归来了,https://www.goodiptv.club/huya/13303478
+
 阿钙扒瞎,http://live.nctv.top/huya.php?id=15978172
 阿良说剧,http://live.nctv.top/huya.php?id=20488841
 阿翔说电影,http://live.nctv.top/huya.php?id=16868935
