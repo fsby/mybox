@@ -588,19 +588,23 @@ CETV早期教育,https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9e
 
 
 财经凤凰,#genre#
-第一财经HD,http://180.173.155.200:4022/rtp/233.18.204.65:5140
-第一财经HD,http://180.173.155.200:4022/rtp/233.18.204.59:5140
-第一财经SD,http://180.173.155.200:4022/rtp/233.18.204.5:5140
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 深圳财经生活,http://183.236.43.98:4013/udp/239.77.1.242:5146
 CCTV-2财经,http://183.236.43.98:4013/udp/239.77.1.158:5146
 CCTV-2财经,http://106.59.2.113:55555/udp/239.200.200.104:8084
+Now财经,http://hls.168.us.kg/u/333/master.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
+凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
@@ -627,6 +631,11 @@ CCTV-2财经,http://106.59.2.113:55555/udp/239.200.200.104:8084
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+HBO,http://148.113.160.49:14187
+HBO,http://148.113.160.49:14176
+HBO,http://104.250.145.76/livehttpplay?channel_id=23356
+
+
 
 数字频道,#genre#
 CHC动作电影,http://39.77.27.246:4002/rtp/239.253.254.153:8000$山东联通11
