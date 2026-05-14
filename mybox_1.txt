@@ -221,21 +221,6 @@ CCTV9,http://183.250.156.180:9999/newlive/live/hls/10/live.m3u8
 CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 
 专享央视,#genre#
-CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -254,6 +239,23 @@ CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
+
+CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
@@ -267,6 +269,7 @@ CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+
 CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
 CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8
@@ -279,6 +282,7 @@ CCTV8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8
+
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -610,7 +614,116 @@ cctv5體育,http://www.cdnstv.com:6398/hls/5/index.m3u8
 109,http://iptv.4666888.xyz/iptv2A.php?id=109
 
 
-测试,#genre#
+测试1,#genre#
+1  ,http://74.91.26.218:82/live/cctv1hd.m3u8
+2  ,http://74.91.26.218:82/live/cctv2hd.m3u8
+3  ,http://74.91.26.218:82/live/cctv3hd.m3u8
+4  ,http://74.91.26.218:82/live/cctv4hd.m3u8
+5  ,http://74.91.26.218:82/live/cctv5hd.m3u8
+6  ,http://74.91.26.218:82/live/cctv6hd.m3u8
+7  ,http://74.91.26.218:82/live/cctv7hd.m3u8
+8  ,http://74.91.26.218:82/live/cctv8hd.m3u8
+9  ,http://74.91.26.218:82/live/cctv9hd.m3u8
+10 ,http://74.91.26.218:82/live/cctv10hd.m3u8
+11 ,http://74.91.26.218:82/live/cctv11hd.m3u8
+12 ,http://74.91.26.218:82/live/cctv12hd.m3u8
+13 ,http://74.91.26.218:82/live/cctv13hd.m3u8
+14 ,http://74.91.26.218:82/live/cctv14hd.m3u8
+15 ,http://74.91.26.218:82/live/cctv15hd.m3u8
+16 ,http://74.91.26.218:82/live/cctv16hd.m3u8
+17 ,http://74.91.26.218:82/live/cctv17hd.m3u8
+18 ,http://74.91.26.218:82/live/cctv18hd.m3u8
+19 ,http://74.91.26.218:82/live/cctv19hd.m3u8
+20 ,http://74.91.26.218:82/live/cctv20hd.m3u8
+21 ,http://74.91.26.218:82/live/cctv21hd.m3u8
+22 ,http://74.91.26.218:82/live/cctv22hd.m3u8
+23 ,http://74.91.26.218:82/live/cctv23hd.m3u8
+24 ,http://74.91.26.218:82/live/cctv24hd.m3u8
+25 ,http://74.91.26.218:82/live/cctv25hd.m3u8
+26 ,http://74.91.26.218:82/live/cctv26hd.m3u8
+27 ,http://74.91.26.218:82/live/cctv27hd.m3u8
+28 ,http://74.91.26.218:82/live/cctv28hd.m3u8
+29 ,http://74.91.26.218:82/live/cctv29hd.m3u8
+30 ,http://74.91.26.218:82/live/cctv30hd.m3u8
+31 ,http://74.91.26.218:82/live/cctv31hd.m3u8
+32 ,http://74.91.26.218:82/live/cctv32hd.m3u8
+33 ,http://74.91.26.218:82/live/cctv33hd.m3u8
+34 ,http://74.91.26.218:82/live/cctv34hd.m3u8
+35 ,http://74.91.26.218:82/live/cctv35hd.m3u8
+36 ,http://74.91.26.218:82/live/cctv36hd.m3u8
+37 ,http://74.91.26.218:82/live/cctv37hd.m3u8
+38 ,http://74.91.26.218:82/live/cctv38hd.m3u8
+39 ,http://74.91.26.218:82/live/cctv39hd.m3u8
+40 ,http://74.91.26.218:82/live/cctv40hd.m3u8
+41 ,http://74.91.26.218:82/live/cctv41hd.m3u8
+42 ,http://74.91.26.218:82/live/cctv42hd.m3u8
+43 ,http://74.91.26.218:82/live/cctv43hd.m3u8
+44 ,http://74.91.26.218:82/live/cctv44hd.m3u8
+45 ,http://74.91.26.218:82/live/cctv45hd.m3u8
+46 ,http://74.91.26.218:82/live/cctv46hd.m3u8
+47 ,http://74.91.26.218:82/live/cctv47hd.m3u8
+48 ,http://74.91.26.218:82/live/cctv48hd.m3u8
+49 ,http://74.91.26.218:82/live/cctv49hd.m3u8
+50 ,http://74.91.26.218:82/live/cctv50hd.m3u8
+51 ,http://74.91.26.218:82/live/cctv51hd.m3u8
+52 ,http://74.91.26.218:82/live/cctv52hd.m3u8
+53 ,http://74.91.26.218:82/live/cctv53hd.m3u8
+54 ,http://74.91.26.218:82/live/cctv54hd.m3u8
+55 ,http://74.91.26.218:82/live/cctv55hd.m3u8
+56 ,http://74.91.26.218:82/live/cctv56hd.m3u8
+57 ,http://74.91.26.218:82/live/cctv57hd.m3u8
+58 ,http://74.91.26.218:82/live/cctv58hd.m3u8
+59 ,http://74.91.26.218:82/live/cctv59hd.m3u8
+60 ,http://74.91.26.218:82/live/cctv60hd.m3u8
+61 ,http://74.91.26.218:82/live/cctv61hd.m3u8
+62 ,http://74.91.26.218:82/live/cctv62hd.m3u8
+63 ,http://74.91.26.218:82/live/cctv63hd.m3u8
+64 ,http://74.91.26.218:82/live/cctv64hd.m3u8
+65 ,http://74.91.26.218:82/live/cctv65hd.m3u8
+66 ,http://74.91.26.218:82/live/cctv66hd.m3u8
+67 ,http://74.91.26.218:82/live/cctv67hd.m3u8
+68 ,http://74.91.26.218:82/live/cctv68hd.m3u8
+69 ,http://74.91.26.218:82/live/cctv69hd.m3u8
+70 ,http://74.91.26.218:82/live/cctv70hd.m3u8
+71 ,http://74.91.26.218:82/live/cctv71hd.m3u8
+72 ,http://74.91.26.218:82/live/cctv72hd.m3u8
+73 ,http://74.91.26.218:82/live/cctv73hd.m3u8
+74 ,http://74.91.26.218:82/live/cctv74hd.m3u8
+75 ,http://74.91.26.218:82/live/cctv75hd.m3u8
+76 ,http://74.91.26.218:82/live/cctv76hd.m3u8
+77 ,http://74.91.26.218:82/live/cctv77hd.m3u8
+78 ,http://74.91.26.218:82/live/cctv78hd.m3u8
+79 ,http://74.91.26.218:82/live/cctv79hd.m3u8
+80 ,http://74.91.26.218:82/live/cctv80hd.m3u8
+81 ,http://74.91.26.218:82/live/cctv81hd.m3u8
+82 ,http://74.91.26.218:82/live/cctv82hd.m3u8
+83 ,http://74.91.26.218:82/live/cctv83hd.m3u8
+84 ,http://74.91.26.218:82/live/cctv84hd.m3u8
+85 ,http://74.91.26.218:82/live/cctv85hd.m3u8
+86 ,http://74.91.26.218:82/live/cctv86hd.m3u8
+87 ,http://74.91.26.218:82/live/cctv87hd.m3u8
+88 ,http://74.91.26.218:82/live/cctv88hd.m3u8
+89 ,http://74.91.26.218:82/live/cctv89hd.m3u8
+90 ,http://74.91.26.218:82/live/cctv90hd.m3u8
+91 ,http://74.91.26.218:82/live/cctv91hd.m3u8
+92 ,http://74.91.26.218:82/live/cctv92hd.m3u8
+93 ,http://74.91.26.218:82/live/cctv93hd.m3u8
+94 ,http://74.91.26.218:82/live/cctv94hd.m3u8
+95 ,http://74.91.26.218:82/live/cctv95hd.m3u8
+96 ,http://74.91.26.218:82/live/cctv96hd.m3u8
+97 ,http://74.91.26.218:82/live/cctv97hd.m3u8
+98 ,http://74.91.26.218:82/live/cctv98hd.m3u8
+99 ,http://74.91.26.218:82/live/cctv99hd.m3u8
+100,http://74.91.26.218:82/live/cctv100hd.m3u8
+
+
+
+
+
+
+
+
+测试2,#genre#
 1  ,http://120.76.248.139/live/bfgd/4200000001.m3u8
 2  ,http://120.76.248.139/live/bfgd/4200000002.m3u8
 3  ,http://120.76.248.139/live/bfgd/4200000003.m3u8
@@ -668,9 +781,9 @@ cctv5體育,http://www.cdnstv.com:6398/hls/5/index.m3u8
 55 ,http://120.76.248.139/live/bfgd/4200000055.m3u8
 56 ,http://120.76.248.139/live/bfgd/4200000056.m3u8
 57 ,http://120.76.248.139/live/bfgd/4200000057.m3u8
-58 ,http://120.76.248.139/live/bfgd/4200000058.m3u8
-59 ,http://120.76.248.139/live/bfgd/4200000059.m3u8
-60 ,http://120.76.248.139/live/bfgd/4200000060.m3u8
+58辽宁卫视 ,http://120.76.248.139/live/bfgd/4200000058.m3u8
+59四川新闻 ,http://120.76.248.139/live/bfgd/4200000059.m3u8
+60北方导视 ,http://120.76.248.139/live/bfgd/4200000060.m3u8
 61 ,http://120.76.248.139/live/bfgd/4200000061.m3u8
 62 ,http://120.76.248.139/live/bfgd/4200000062.m3u8
 63 ,http://120.76.248.139/live/bfgd/4200000063.m3u8
